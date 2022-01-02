@@ -1,4 +1,4 @@
-![image-20220102212235707](image\image-20220102212235707.png)
+![image-20220102212235707](https://github.com/Mitchelid/leetcode/blob/main/%E5%89%91%E6%8C%87%20Offer%20%E7%AC%AC%E4%BA%8C%E7%89%88/image/image-20220102212235707.png)
 
 #### 方法一 unordered_map
 
